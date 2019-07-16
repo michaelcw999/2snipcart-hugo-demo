@@ -9,6 +9,8 @@ sections:
   label: Products
   create: all
   match: "**/*"
+  templates:
+  - text-block-option
 upload_dir: snipcart-hugo-demo
 public_path: ''
 front_matter_path: ''
