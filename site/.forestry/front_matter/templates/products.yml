@@ -32,7 +32,5 @@ fields:
   - advanced-dropdown-option
 pages:
 - site/content/products/plane.md
-- site/content/products/boots.md
 - site/content/products/knife.md
-- site/content/products/chainsaw.md
 - site/content/products/gloves.md
