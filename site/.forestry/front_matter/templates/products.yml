@@ -30,5 +30,3 @@ fields:
   - checkbox-option
   - simple-dropdown-option
   - advanced-dropdown-option
-pages:
-- site/content/products/plane.md
