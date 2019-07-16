@@ -5,6 +5,6 @@ fields:
 - type: include
   name: essential
   label: Essential
-  template: base-product-option
+  template: text-block-option
 pages:
 - site/content/products/ViaValet.md
